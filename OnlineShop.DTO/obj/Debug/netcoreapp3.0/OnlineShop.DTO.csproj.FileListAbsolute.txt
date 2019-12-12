@@ -1,0 +1,8 @@
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.DTO\bin\Debug\netcoreapp3.0\OnlineShop.DTO.deps.json
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.DTO\bin\Debug\netcoreapp3.0\OnlineShop.DTO.dll
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.DTO\bin\Debug\netcoreapp3.0\OnlineShop.DTO.pdb
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.DTO\obj\Debug\netcoreapp3.0\OnlineShop.DTO.csprojAssemblyReference.cache
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.DTO\obj\Debug\netcoreapp3.0\OnlineShop.DTO.AssemblyInfoInputs.cache
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.DTO\obj\Debug\netcoreapp3.0\OnlineShop.DTO.AssemblyInfo.cs
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.DTO\obj\Debug\netcoreapp3.0\OnlineShop.DTO.dll
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.DTO\obj\Debug\netcoreapp3.0\OnlineShop.DTO.pdb

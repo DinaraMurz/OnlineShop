@@ -1,0 +1,17 @@
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.Services.deps.json
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.Services.dll
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.Services\obj\Debug\netcoreapp3.0\OnlineShop.Services.csprojAssemblyReference.cache
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.Services\obj\Debug\netcoreapp3.0\OnlineShop.Services.AssemblyInfoInputs.cache
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.Services\obj\Debug\netcoreapp3.0\OnlineShop.Services.AssemblyInfo.cs
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.Services.pdb
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.Services\obj\Debug\netcoreapp3.0\OnlineShop.Services.dll
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.Services\obj\Debug\netcoreapp3.0\OnlineShop.Services.pdb
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.DTO.dll
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.DTO.pdb
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.Services\obj\Debug\netcoreapp3.0\OnlineShop.Services.csproj.CopyComplete
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.DataAccess.dll
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.Domain.dll
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.Options.dll
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.DataAccess.pdb
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.Domain.pdb
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.Services\bin\Debug\netcoreapp3.0\OnlineShop.Options.pdb

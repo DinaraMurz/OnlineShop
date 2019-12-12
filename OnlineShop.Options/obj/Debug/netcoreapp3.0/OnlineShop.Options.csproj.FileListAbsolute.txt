@@ -1,0 +1,8 @@
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.Options\bin\Debug\netcoreapp3.0\OnlineShop.Options.deps.json
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.Options\bin\Debug\netcoreapp3.0\OnlineShop.Options.dll
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.Options\bin\Debug\netcoreapp3.0\OnlineShop.Options.pdb
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.Options\obj\Debug\netcoreapp3.0\OnlineShop.Options.csprojAssemblyReference.cache
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.Options\obj\Debug\netcoreapp3.0\OnlineShop.Options.AssemblyInfoInputs.cache
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.Options\obj\Debug\netcoreapp3.0\OnlineShop.Options.AssemblyInfo.cs
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.Options\obj\Debug\netcoreapp3.0\OnlineShop.Options.dll
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.Options\obj\Debug\netcoreapp3.0\OnlineShop.Options.pdb

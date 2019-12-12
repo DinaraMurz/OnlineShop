@@ -1,0 +1,13 @@
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.DataAccess\bin\Debug\netcoreapp3.0\OnlineShop.DataAccess.deps.json
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.DataAccess\bin\Debug\netcoreapp3.0\OnlineShop.DataAccess.dll
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.DataAccess\obj\Debug\netcoreapp3.0\OnlineShop.DataAccess.csprojAssemblyReference.cache
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.DataAccess\obj\Debug\netcoreapp3.0\OnlineShop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.DataAccess\obj\Debug\netcoreapp3.0\OnlineShop.DataAccess.AssemblyInfo.cs
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.DataAccess\bin\Debug\netcoreapp3.0\OnlineShop.DataAccess.runtimeconfig.json
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.DataAccess\bin\Debug\netcoreapp3.0\OnlineShop.DataAccess.runtimeconfig.dev.json
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.DataAccess\bin\Debug\netcoreapp3.0\OnlineShop.DataAccess.pdb
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.DataAccess\bin\Debug\netcoreapp3.0\OnlineShop.Domain.dll
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.DataAccess\bin\Debug\netcoreapp3.0\OnlineShop.Domain.pdb
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.DataAccess\obj\Debug\netcoreapp3.0\OnlineShop.DataAccess.csproj.CopyComplete
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.DataAccess\obj\Debug\netcoreapp3.0\OnlineShop.DataAccess.dll
+C:\Users\МырзабекДи\source\repos\OnlineShop\OnlineShop.DataAccess\obj\Debug\netcoreapp3.0\OnlineShop.DataAccess.pdb
