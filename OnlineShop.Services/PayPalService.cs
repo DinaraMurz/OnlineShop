@@ -64,7 +64,7 @@ namespace OnlineShop.Services
             {
                 var statusCode = httpException.StatusCode;
                 var debugId = httpException.Headers.GetValues("PayPal-Debug-Id").FirstOrDefault();
-                return null; 
+                return null;
             }
         }
     }

@@ -2,26 +2,28 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using OnlineShop.Services;
+using OnlineShop.Services.Interfaces;
 
-namespace OnlineShop.Web.Controlers
+namespace OnlineShop.Web.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
     public class AuthController : ControllerBase
     {
         private readonly UserService userService;
-        private readonly TwilioSmsService twilioSmsService;
+        private readonly ISmsService smsService;
 
-        public AuthController(UserService userService, TwilioSmsService twilioSmsService)
+        public AuthController(UserService userService, ISmsService smsService)
         {
             this.userService = userService;
-            this.twilioSmsService = twilioSmsService;
+            this.smsService = smsService;
         }
 
         [HttpPost]
-        public async Task<IActionResult> Authenticate(string phoneNumber, string code)
+        public async Task<IActionResult> Auth(string phoneNumber, string code)
         {
             if (!ModelState.IsValid)
             {
@@ -38,27 +40,23 @@ namespace OnlineShop.Web.Controlers
             return Ok(new { token });
         }
 
+        /*[HttpGet]
+        public IActionResult Test()
+        {
+            string text = "asd";
+            return Ok(new { text });
+        }*/
+
         [HttpGet]
         public async Task<IActionResult> SendCode(string phoneNumber)
         {
-            var code = new Random().Next(100000, 999999).ToString();
+            var code = new Random().Next(1000, 9999).ToString();
 
-            await twilioSmsService.SendVerificationCode(phoneNumber, code);
+            await smsService.SendVerificationCode(phoneNumber, code);
 
-            await userService.SaveUserCode(phoneNumber, code);
+            await userService.SaveCodeToUser(phoneNumber, code);
 
             return Ok();
-        }
-
-        [HttpGet]
-        public async Task<IActionResult> ConfirmCode(string phoneNumber, string code)
-        {
-            if(await userService.ConfirmUserCode(phoneNumber, code))
-            {
-                return Ok();
-            }
-
-            return StatusCode(400);  //
         }
 
     }
